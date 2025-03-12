@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Home = () => (
     <>
-    <Button>Click Me</Button>
+    <Button>Click Me !</Button>
     </>
 );
 export default Home;
